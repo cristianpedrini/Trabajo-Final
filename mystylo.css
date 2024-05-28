@@ -10,6 +10,49 @@ body {
    
 }
 
+
+.carro img{
+    height: 400px;
+    
+
+    width: 242px;
+    
+}
+.recomendacionin H4{ 
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px 15px 0px;
+    background-color: black;
+    color: skyblue;
+    margin: 0;
+
+
+}
+.recomendacionin h5{
+    color: black;
+   
+}
+.recomendacionin img{
+   height: 350px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 0px;
+}
+.integrantestab img{
+    height: 100px;
+ 
+}
+.titletab{
+    font-weight: 800;
+}
+.integrantestab {
+    
+ width: 50%;
+   
+}
 /*Alquiler de equipo*/
 .titulo-alquiler{
   color: #ffffff;
