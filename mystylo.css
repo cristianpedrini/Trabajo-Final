@@ -135,6 +135,33 @@ font-style: oblique;
 }
 
 
+/*lanin*/
+.encabezadola{
+    background-color: rgb(13, 13, 74);
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.encabezadola h1{
+   
+    color: aliceblue;
+}
+
+.carla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.carla img {
+    height: 350px;
+
+}
+
 /*footer*/
 
 .footer {
